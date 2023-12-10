@@ -12,7 +12,7 @@ marks_class_12[0] = 96; // Changing the value of an array
 console.log(marks_class_12);
 console.log(typeof marks_class_12);
 
-// Arrays
+// Arrays :
 // Arrays are a way to store multiple values in a single variable. They are very useful when you want to store a list of values and perform operations on them. Arrays are declared using square brackets [] and the values are separated by commas ,. For example, the following code declares an array named arr with 3 values:
 
 let arr1 = [1, 2, 3];
